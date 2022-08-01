@@ -1,0 +1,28 @@
+
+  .btn {
+    border-radius: 0px !important;
+  }
+  
+  input,
+  input:focus {
+    border-radius: 0px !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+  button {
+    border: none;
+    background-color: red;
+    color: #fff;
+    text-align: right;
+  }
+  .showList ul li {
+    margin-bottom: 10px;
+  }
+  
+  .showList ul li span {
+    background-color: red;
+    height: 5px;
+    z-index: 999999;
+    display: block;
+  }
